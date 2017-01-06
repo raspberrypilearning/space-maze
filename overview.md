@@ -1,1 +1,1 @@
-In this resource you will make a something do a something so that your something can do something and use something to control the something.
+In this resource you will create a Space Maze game, so players can try and navigate space junk as they return home from the ISS to Earth
