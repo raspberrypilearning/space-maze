@@ -20,11 +20,11 @@ In this activity, you are going to build a Space Maze, that will make the pilot 
 
 1. Let's start by importing the maze we want to use. Right click on the maze graphic below to save it to your computer.
 
-   ![maze](basic_maze.png)
+   ![maze](images/basic_maze.png)
    
 1. Now click on the following icon:
 
-	![stage](stage.png) 
+	![stage](images/stage.png) 
 
 	and click on the upload symbol. You can then choose the [`basic_maze.png`](images/basic_maze.png) image you have downloaded.
 
