@@ -47,7 +47,9 @@ In this activity, you are going to build a Space Maze, that will make the pilot 
 
 	![setup](images/setup.png)
 
-1. To re-size your sprites you can use the ![re-size](images/resize.png) buttons.
+1. To re-size your sprites you can use the following buttons
+
+![re-size](images/resize.png)
 
 ## The Soyuz leaves the ISS
 
@@ -81,7 +83,9 @@ In this activity, you are going to build a Space Maze, that will make the pilot 
 
 	![script6](images/script6.png)
 
-1. Click on the Green flag and test your game. Make sure that it does return to the start if you hit the maze. Also make sure the space craft is moving too quickly or that it is too big to fit through the gaps in the maze. You can make the stage bigger in Scratch by clicking on the ![fullscreen](images/fullscreen.png) icon.
+1. Click on the Green flag and test your game. Make sure that it does return to the start if you hit the maze. Also make sure the space craft is moving too quickly or that it is too big to fit through the gaps in the maze. You can make the stage bigger in Scratch by clicking on the following icon. 
+
+![fullscreen](images/fullscreen.png)
 
 ## Permission to land.
 1. If the Soyuz ever reaches Earth then the `repeat until` loop will end. So to finish off you can add a little message to the end of the loop, telling the player how long it took them to land. You can also stop the scrip. Use a join block to combine what you want to say, with the count on the timer.
