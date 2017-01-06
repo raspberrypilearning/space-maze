@@ -7,6 +7,7 @@ In this activity, you are going to build a Space Maze, that will make the pilot 
 ## Starting Scratch 2.0
 
 1. Go to the [Scratch 2.0](https://scratch.mit.edu) website in your browser.
+
 1. If you want to save your work you'll either need to sign in (if you already have a Scratch account) or sign up.
 
    ![Sign in](images/signin.png)
@@ -21,14 +22,24 @@ In this activity, you are going to build a Space Maze, that will make the pilot 
 
    ![maze](basic_maze.png)
    
-1. Now click on the ![stage](stage.png) and click on the upload symbol. You can then choose the [`basic_maze.png`](images/basic_maze.png) image you have downloaded.
+1. Now click on the following icon:
+
+	![stage](stage.png) 
+
+	and click on the upload symbol. You can then choose the [`basic_maze.png`](images/basic_maze.png) image you have downloaded.
+
 1. Next you can add in a few sprites. Two of them can come from the images below. These are the Soyuz capsule and the ISS images. Again, you can right click to download them.
    
    ![soyuz](images/soyuz_sprite.png)
    ![iss](images/iss_sprite.png)
 
-1. Click on the upload icon in the `New sprite` menu ![sprite](images/new_sprite.png), and upload the [`soyuz_sprite.png`](images/soyuz_sprite.png) and the [`iss_sprite.png`](images/iss_sprite.png)
-p1. The last sprite you need is a picture of the Earth. This is included in Scratch, so click on the icon to `choose a sprite from library`, and pick the Earth from the Space theme.
+1. Click on the upload icon in the `New sprite` menu:
+
+	![sprite](images/new_sprite.png)
+
+	and upload the [`soyuz_sprite.png`](images/soyuz_sprite.png) and the [`iss_sprite.png`](images/iss_sprite.png)
+	
+1. The last sprite you need is a picture of the Earth. This is included in Scratch, so click on the icon to `choose a sprite from library`, and pick the Earth from the Space theme.
 
 	![library](images/library)
 
@@ -41,6 +52,7 @@ p1. The last sprite you need is a picture of the Earth. This is included in Scra
 ## The Soyuz leaves the ISS
 
 1. The pilot needs to navigate the Soyuz capsule through the maze of space junk, back to Earth, but they can't take too long about it. You can use a timer to see how long it takes them.
+
 1. Click on the soyuz_sprite so that you can start adding scripts. The first should just reset the game's timer.
 
 	![script1](images/script1.png)
