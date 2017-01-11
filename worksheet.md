@@ -41,7 +41,7 @@ In this activity, you're going to build a Space Maze where the pilot of a spacec
 	
 1. The last sprite you need is a picture of the Earth. This is included in Scratch, so click on the icon to 'choose a sprite from library', and pick the Earth from the Space theme.
 
-	![library](images/library)
+	![library](images/library.png)
 
 1. You'll now want to spend some time positioning your sprites on the stage. It should look like this:
 
