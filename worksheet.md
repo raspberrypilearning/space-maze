@@ -4,6 +4,10 @@ There are over half a million pieces of space junk orbiting the Earth. Some of t
 
 In this activity, you're going to build a Space Maze where the pilot of a spacecraft has to carefully navigate their way back down from the ISS to Earth again.
 
+On 15 December 2015, British ESA astronaut Tim Peake set off on the Principia mission to the International Space Station, which is in orbit around the Earth. This project ties in with the Principia Space Diary, a free resource for UK schools, which was produced as part of Tim Peake’s Principia Mission. For more information about the Space Diary, visit [http://principiaspacediary.org](http://principiaspacediary.org).
+
+![Space Diary](images/space-diary.png)
+
 ## Starting Scratch 2.0
 
 1. Go to the [Scratch 2.0](https://scratch.mit.edu) website in your browser.
@@ -11,7 +15,7 @@ In this activity, you're going to build a Space Maze where the pilot of a spacec
 1. If you want to save your work, you'll either need to sign in (if you already have a Scratch account) or sign up.
 
    ![Sign in](images/signin.png)
-   
+
 1. Once that's completed, you can click on Create to start a new project.
 
    ![Create](images/create.png)
@@ -21,15 +25,15 @@ In this activity, you're going to build a Space Maze where the pilot of a spacec
 1. Let's start by importing the maze we want to use. Right-click on the maze graphic below to save it to your computer.
 
    ![maze](images/basic_maze.png)
-   
+
 1. Now click on the following icon:
 
-	![stage](images/stage.png) 
+	![stage](images/stage.png)
 
 	and click on the Upload symbol. You can then choose the [`basic_maze.png`](images/basic_maze.png) image you have downloaded.
 
 1. Next, you can add in a few sprites. Two of them can come from the images below; these are the Soyuz capsule and the ISS. Again, you can right-click to download them.
-   
+
    ![soyuz](images/soyuz_sprite.png)
    ![iss](images/iss_sprite.png)
 
@@ -38,7 +42,7 @@ In this activity, you're going to build a Space Maze where the pilot of a spacec
 	![sprite](images/new_sprite.png)
 
 	and upload the [`soyuz_sprite.png`](images/soyuz_sprite.png) and the [`iss_sprite.png`](images/iss_sprite.png) images.
-	
+
 1. The last sprite you need is a picture of the Earth. This is included in Scratch, so click on the icon to 'choose a sprite from library', and pick the Earth from the Space theme.
 
 	![library](images/library.png)
