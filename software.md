@@ -2,7 +2,7 @@
 
 After updating your SD card to the latest build, you should also install the Chromium mods which will enable the Flash player software.
 
-To install the software you need, run the following command in a terminal (hold `ctrl` + `alt` + `t`):
+To install the software you need, run the following command in a terminal window (press **Ctrl + Alt + t**):
 
 ```bash
 sudo apt-get install -y rpi-chromium-mods
