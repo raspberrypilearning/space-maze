@@ -4,7 +4,7 @@ There are over half a million pieces of space junk orbiting the Earth. Some of t
 
 In this activity, you're going to build a Space Maze where the pilot of a spacecraft has to carefully navigate their way back down from the ISS to Earth again.
 
-On 15 December 2015, British ESA astronaut Tim Peake set off on the Principia mission to the International Space Station, which is in orbit around the Earth. This project ties in with the Principia Space Diary, a free resource for UK schools, which was produced as part of Tim Peake’s Principia Mission. For more information about the Space Diary, visit [http://principiaspacediary.org](http://principiaspacediary.org).
+On 15 December 2015, British ESA astronaut Tim Peake set off on the Principia mission to the International Space Station, which is in orbit around the Earth. This project ties in with the Principia Space Diary, a free resource for UK schools, which was produced as part of Tim Peake’s Principia Mission. For more information about the Space Diary, visit [principiaspacediary.org](http://principiaspacediary.org).
 
 ![Space Diary](images/space-diary.png)
 
