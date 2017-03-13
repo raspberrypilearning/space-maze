@@ -65,7 +65,7 @@ On 15 December 2015, British ESA astronaut Tim Peake set off on the Principia mi
 
 1. Next, you want to reset the position of the Soyuz capsule and also start making it draw using the pen tool. This will leave a trail wherever it goes.
 
-   	![script2](images.script2.png)
+   	![script2](images/script2.png)
 
 ## Heading home
 
