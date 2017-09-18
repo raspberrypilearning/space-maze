@@ -1,0 +1,16 @@
+when flag clicked
+reset timer
+go to x:(130) y:(0)
+clear
+pen down
+repeat until <touching [Earth v]>
+point towards [mounse-pointer v]
+move (1) steps
+if <touching color [#000000]?> then
+pen up
+go to x:(130) y:(0)
+pen down
+end
+end
+say(join [You made it home in ](timer))
+stop [all v]

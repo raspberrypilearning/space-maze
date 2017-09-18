@@ -1,0 +1,20 @@
+title: Space Maze
+hero_image: images/banner.png
+description: Guide your astronauts back to Earth
+original_url: 
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+interests: "space"
+technologies: "scratch"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Setting up your project
+  - title: Leaving the ISS
+  - title: Heading home
+  - title: Avoiding the junk
+  - title: Permission to land
+  - title: What next?
