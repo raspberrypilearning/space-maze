@@ -1,7 +1,8 @@
+---
 title: Space Maze
 hero_image: images/banner.png
 description: Guide your astronauts back to Earth
-original_url: 
+original_url:
 theme: blue
 duration: 2
 listed: true
@@ -15,12 +16,14 @@ software: scratch
 site_areas: projects
 version: 4.0.1
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: What you will need
+  completion: engaged
 - title: Setting up your project
 - title: Leaving the ISS
 - title: Heading home
 - title: Avoiding the junk
+  completion: internal
 - title: Permission to land
 - title: What next?
